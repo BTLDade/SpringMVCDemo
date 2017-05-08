@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JunitModule/JunitModule.iml" filepath="$PROJECT_DIR$/JunitModule/JunitModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LombokModule/LombokModule.iml" filepath="$PROJECT_DIR$/LombokModule/LombokModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MavenModule/MavenModule.iml" filepath="$PROJECT_DIR$/MavenModule/MavenModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringModule/SpringModule.iml" filepath="$PROJECT_DIR$/SpringModule/SpringModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebAppModule/WebAppModule.iml" filepath="$PROJECT_DIR$/WebAppModule/WebAppModule.iml" />
+    </modules>
+  </component>
+</project>
